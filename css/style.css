@@ -26,3 +26,7 @@ button {
 .animals {
     margin: 2em;
 }
+
+img {
+    border-radius: 5px;
+}
