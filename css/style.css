@@ -5,3 +5,24 @@ img {
 h1 {
     text-align: center;
 }
+
+body {
+    color: aliceblue;
+    background-color: #0c240c;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='321' height='321' viewBox='0 0 20 20'%3E%3Cg %3E%3Cpolygon fill='%231e3b1e' points='20 10 10 0 0 0 20 20'/%3E%3Cpolygon fill='%231e3b1e' points='0 10 0 20 10 20'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+button {
+    background-color: transparent;
+    border: transparent;
+    color: whitesmoke;
+    font-size: larger;
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: 41px;
+    cursor: pointer;
+}
+
+.animals {
+    margin: 2em;
+}
